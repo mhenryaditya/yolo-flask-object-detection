@@ -9,7 +9,7 @@ This implementation uses a **server-side processing** approach, meaning all the 
 **🎯 Core Technologies:**
 * **Flask:** A lightweight Python web framework used for the backend server.
 * **OpenCV:** A computer vision library used to capture and process video from the webcam.
-* **Ultralytics YOLO:** The Python package used to load and run the YOLO model. *Note: While the prompt mentioned YOLOv11, this project uses the standard Ultralytics library, which officially supports versions like YOLOv8, YOLOv9, and YOLOv10.*
+* **Ultralytics YOLO:** The Python package used to load and run the YOLO model. *Note: While this uses YOLOv11, this project uses the standard Ultralytics library, which officially supports versions like YOLOv8, YOLOv9, and YOLOv10.*
 
 ---
 
